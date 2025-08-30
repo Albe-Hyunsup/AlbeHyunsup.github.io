@@ -1,0 +1,10 @@
+title: "AlbeHyunsup 블로그"
+description: "AI · 데이터 · 개발 기록"
+author: "Albe Hyunsup"
+theme: minima
+# 사이트 기본 URL (선택)
+url: "https://AlbeHyunsup.github.io"
+# 네비게이션(카테고리/태그 페이지 쓰려면 아래 두 줄 추가)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
